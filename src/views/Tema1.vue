@@ -26,7 +26,7 @@
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/12.png', alt='')                   
             .col-lg-8.my-3
               .bg10.p-3.brad.mb-4(data-aos="fade-left") 
-                p(data-aos="fade-down").mb-0  Imagine que desea comunicarse con alguien al otro lado del mundo. ¿Qué necesita? Un dispositivo, una aplicación de comunicación y un paquete de datos o Wifi. Retroceda unos 30 años y piense en lo que tenían que hacer las personas para hablar con un primo en España, por ejemplo. Seguramente debían preparar muy bien lo que iban a decir porque la llamada tenía un costo elevado; otra posibilidad era enviar una carta que podría demorarse más de una semana en llegar. En la actualidad, es suficiente con enviar un emoticón por una aplicación de mensajería y llega en instantes.
+                p(data-aos="fade-down").mb-0  Imagine que desea comunicarse con alguien al otro lado del mundo. ¿Qué necesita? Un dispositivo, una aplicación de comunicación y un paquete de datos o #[i Wifi]. Retroceda unos 30 años y piense en lo que tenían que hacer las personas para hablar con un primo en España, por ejemplo. Seguramente debían preparar muy bien lo que iban a decir porque la llamada tenía un costo elevado; otra posibilidad era enviar una carta que podría demorarse más de una semana en llegar. En la actualidad, es suficiente con enviar un emoticón por una aplicación de mensajería y llega en instantes.
 
               ol.lista-ol--cuadro.fa-ul
                 li 
@@ -40,7 +40,7 @@
                 li 
                   .lista-ol--cuadro__vineta
                     span 3
-                  span ¿Podrá agilizar tiempos? 
+                  span ¿Podrá agilizar los tiempos? 
                 li 
                   .lista-ol--cuadro__vineta
                     span 4
@@ -293,7 +293,7 @@
               .col-lg-5.my-3
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/39.png', alt='')  
               .col-lg-7.my-3
-                p(data-aos="fade-down") En cualquier empresa grande, mediana o pequeña, las TIC contribuyen al crecimiento y aumento de la productividad, porque mejoran los procesos y los canales de comunicación, a través de una página web, un perfil en redes sociales, un correo electrónico, e inclusive, una aplicación para dispositivos móviles.
+                p(data-aos="fade-down") En cualquier empresa grande, mediana o pequeña, las TIC contribuyen al crecimiento y aumento de la productividad, porque mejoran los procesos y los canales de comunicación, a través de una página #[i web], un perfil en redes sociales, un correo electrónico, e inclusive una aplicación para dispositivos móviles.
 
                 h5.t1.mb-3(data-aos="fade-down") Igualmente permiten generar: 
                 .row.mb-3         

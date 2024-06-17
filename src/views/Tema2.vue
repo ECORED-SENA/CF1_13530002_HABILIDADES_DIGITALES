@@ -40,8 +40,8 @@
             .row.justify-content-center.mb-5      
               .col-lg-4.my-3
                 .bg6.brad.p-3.h-100
-                  p(data-aos="fade-down") Con los teléfonos móviles se puede acceder a Internet usando Wifi proveniente, ya sea de un modem casero, de una red de una institución pública, de un sector público o también utilizando un paquete de datos de un operador móvil.
-                  p(data-aos="fade-down") Para acceder a Internet basta con habilitar la conexión Wifi en el menú correspondiente del teléfono móvil.
+                  p(data-aos="fade-down") Con los teléfonos móviles se puede acceder a Internet usando #[i Wifi] proveniente, ya sea de un modem casero, de una red de una institución pública, de un sector público o también utilizando un paquete de datos de un operador móvil.
+                  p(data-aos="fade-down") Para acceder a Internet basta con habilitar la conexión #[i Wifi] en el menú correspondiente del teléfono móvil.
                   p(data-aos="fade-down").mb-0 La ubicación del menú dependerá del modelo y sistema operativo del dispositivo.                      
               .col-lg-4.my-3
                 .bg7.brad.p-3.h-100
@@ -51,13 +51,13 @@
                 .bg8.brad.p-3.h-100
                   p(data-aos="fade-down") También se cuenta con las tabletas, que son dispositivos de un tamaño más grande que los teléfonos móviles.
                   p(data-aos="fade-down") Su sistema operativo puede variar según el fabricante. Los más conocidos son Android, iOS y Windows.
-                  p(data-aos="fade-down").mb-0 Normalmente, las tabletas no traen consigo teclado o ratón, pero tienen puertos en los que se pueden conectar estos elementos. La conexión a Internet normalmente es por Wifi, pero hay modelos que permiten insertar una tarjeta SIM con datos de navegación.  
+                  p(data-aos="fade-down").mb-0 Normalmente, las tabletas no traen consigo teclado o ratón, pero tienen puertos en los que se pueden conectar estos elementos. La conexión a Internet normalmente es por #[i Wifi], pero hay modelos que permiten insertar una tarjeta SIM con datos de navegación.  
 
             .row.justify-content-center.align-items-center.bg7.px-3.brad.mb-3(data-aos="fade-right")
               .col-auto.my-3 
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/9.svg', alt='')        
               .col.my-3
-                p(data-aos="fade-down").mb-0.text-white Otros dispositivos permiten la conexión a Internet como por ejemplo, placas embebidas de bajo consumo para procesos educativos y empresariales como Arduino, Raspberry, Udoo, entre otros. Hoy en día, también existen electrodomésticos que se conectan a Internet, como neveras inteligentes, televisores, los cuales permiten acceder a páginas web o reproductores de video, usando una conexión Wifi.                                       
+                p(data-aos="fade-down").mb-0.text-white Otros dispositivos permiten la conexión a Internet como por ejemplo, placas embebidas de bajo consumo para procesos educativos y empresariales como Arduino, Raspberry, Udoo, entre otros. Hoy en día, también existen electrodomésticos que se conectan a Internet, como neveras inteligentes, televisores, los cuales permiten acceder a páginas #[i web] o reproductores de video, usando una conexión #[i Wifi].                                       
 
 </template>
 
