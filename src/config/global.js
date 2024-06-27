@@ -198,7 +198,7 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
+          cargo: 'Lider del Ecosistema',
           centro: 'Dirección General',
         },
         {
@@ -247,6 +247,16 @@ export default {
           cargo: 'Actividad Didáctica',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
+        {
+          nombre: 'Carlos Eduardo Garavito Parada',
+          cargo: 'Animador y Productor Multimedia',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'María Carolina Tamayo López',
+          cargo: 'Locución',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
       ],
     },
     {
@@ -258,12 +268,12 @@ export default {
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Daniel Ricardo Mutis Gómez',
+          nombre: 'Margarita Marcela Medrano Gómez',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Margarita Marcela Medrano Gómez',
+          nombre: 'Daniel Ricardo Mutis Gómez',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
