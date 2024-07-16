@@ -209,14 +209,12 @@
               SlyderA(tipo="b")
                 .row.justify-content-center.p-2
                   .col-lg-6.my-3.col-md-auto
-                    h4.t3 Slide 1 
                     p Antiguamente, el correo electrónico era considerado una herramienta útil como comunicación entre las personas pero, en la actualidad, las diferentes aplicaciones y redes sociales, entran a formar parte de unos canales de comunicación efectivos y eficaces, los cuales son utilizados por una gran parte de la población y, al mismo tiempo, son implementados en instituciones educativas y en empresas.                 
                   .col-lg-5.my-3.mb-4.mb-md-0
                     img.img-a.img-t(src='@/assets/curso/temas/30.png', alt="")  
 
                 .row.justify-content-center.p-2
                   .col-lg-6.my-3.col-md-auto
-                    h4.t3 Slide 2
                     p La telefonía celular ha sido una de las tecnologías que más ha avanzado durante los últimos años. En la actualidad, con los teléfonos inteligentes o smartphones, se puede acceder a toda la información de la web y realizar múltiples tareas, a través de las distintas aplicaciones móviles.             
                   .col-lg-5.my-3.mb-4.mb-md-0
                     img.img-a.img-t(src='@/assets/curso/temas/31.png', alt="")    
