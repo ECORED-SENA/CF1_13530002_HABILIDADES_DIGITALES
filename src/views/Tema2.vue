@@ -21,7 +21,7 @@
 
     Separador 
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2 2.2 Tipos de dispositivos para conectarse a Internet 
+      h2 2.1 Tipos de dispositivos para conectarse a Internet 
 
     p(data-aos="fade-down").mb-4 Navegar por Internet abre un abanico de posibilidades para buscar y difundir información, conectarse con personas de todas partes y realizar diferentes tareas que satisfagan las necesidades de la población en general.  
     .row.bg5.align-items-center
@@ -31,7 +31,7 @@
             .bg4.px-4.mb-5
               .row.justify-content-center.align-items-center         
                 .col-lg-5.my-3.text-white
-                  p(data-aos="fade-down") Para que las personas puedan acceder a Internet, se requiere de una conexión pero también se requiere de dispositivos que les permitan conectarse y ser usados para navegar en la red.
+                  p(data-aos="fade-down") Para que las personas puedan acceder a Internet, se requiere de una conexión, pero también se requiere de dispositivos que les permitan conectarse y ser usados para navegar en la red.
 
                   p(data-aos="fade-down") Como se mencionó anteriormente, uno de los dispositivos más utilizados es el computador, aunque en la actualidad, también se utilizan los teléfonos móviles, debido a la facilidad de transportarlos e integrarlos a varios servicios, dentro de un mismo dispositivo.       
                 .col-lg-6.p-0  
@@ -57,7 +57,7 @@
               .col-auto.my-3 
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/9.svg', alt='')        
               .col.my-3
-                p(data-aos="fade-down").mb-0.text-white Otros dispositivos permiten la conexión a Internet como por ejemplo, placas embebidas de bajo consumo para procesos educativos y empresariales como Arduino, Raspberry, Udoo, entre otros. Hoy en día, también existen electrodomésticos que se conectan a Internet, como neveras inteligentes, televisores, los cuales permiten acceder a páginas #[i web] o reproductores de video, usando una conexión #[i Wifi].                                       
+                p(data-aos="fade-down").mb-0.text-white Otros dispositivos permiten la conexión a Internet, como por ejemplo, placas embebidas de bajo consumo para procesos educativos y empresariales como Arduino, Raspberry, Udoo, entre otros. Hoy en día, también existen electrodomésticos que se conectan a Internet, como neveras inteligentes, televisores, los cuales permiten acceder a páginas #[i web] o reproductores de video, usando una conexión #[i Wifi].                                       
 
 </template>
 

@@ -158,7 +158,7 @@ export default {
     },
     {
       termino: 'TIC',
-      significado: 'acrónimo de Tecnologías de La Información y Comunicación.',
+      significado: 'acrónimo de Tecnologías de la Información y Comunicación.',
     },
     {
       termino: 'Wifi',
@@ -198,7 +198,7 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Lider del Ecosistema',
+          cargo: 'Responsable del Ecosistema',
           centro: 'Dirección General',
         },
         {

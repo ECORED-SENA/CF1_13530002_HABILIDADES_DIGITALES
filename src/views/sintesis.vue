@@ -7,7 +7,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5.bgs.p-5.brad
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="Esquema general del componente formativo, que enuncia las temáticas desarrolladas y destaca aspectos clave estudiados. Tema central: dispositivos y TIC. Temas integradores: qué son, a qué contribuye su uso, las TIC en el entorno del día a día, en el entorno académico, en el entorno laboral, y los tipos de dispositivos.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

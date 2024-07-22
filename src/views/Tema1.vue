@@ -64,7 +64,7 @@
                 .row.justify-content-center.align-items-center.mb-3           
                   .col-auto.bgn.p-2
                     h5.mb-0.mx-1(data-aos="fade-down") 01                   
-                p.mb-0 Hablar por celular      
+                p.mb-0 Hablar por celular.  
               .tarjeta.bgcard.ts.h-100.p-4
                 .row.justify-content-center.mb-3
                   .col-8
@@ -96,7 +96,7 @@
                 .row.justify-content-center.align-items-center.mb-3           
                   .col-auto.bgn.p-2
                     h5.mb-0.mx-1(data-aos="fade-down") 05                   
-                p.mb-0 Revisar la red social en la que se está inscrito
+                p.mb-0 Revisar la red social en la que se está inscrito.
 
     .row.mt-5        
       .col-auto
@@ -110,7 +110,7 @@
             p.mb-0 Las Tecnologías de la Información y la Comunicación, también conocidas como TIC, son un conjunto de tecnologías, desarrolladas para gestionar información y enviarla de un lugar a otro, y cubren un amplio abanico de soluciones. Incluyen las tecnologías para almacenar información y recuperarla en otro momento, enviar y recibir información de un sitio a otro, procesar información para calcular resultados y elaborar informes. 
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
-            .h5.mb-0 (ServiciosTIC, 2006). 
+            .h5.mb-0 (Servicios TIC, 2006). 
 
       .col-lg-2.my-3(data-aos="fade-down")
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/20.svg', alt='')               
@@ -249,7 +249,7 @@
                   p(data-aos="fade-down") Retroceda el tiempo unos 30 años e imagine que desea buscar información sobre el Dragón de Komodo. Lo más seguro es que tendría que utilizar una enciclopedia de varios tomos, ubicar la letra D y desplazarse hasta encontrar sobre el Dragón Komodo.            
               
             h5.t1(data-aos="fade-down") ¿Cuánto tiempo piensa que se demoraría realizando esta tarea?
-            p(data-aos="fade-down").mb-5 ¿Hoy en día puede encontrar, en segundos, imágenes e información de este dragón, utilizando su buscador favorito, e inclusive, hablándole a su teléfono móvil.
+            p(data-aos="fade-down").mb-5 Hoy en día puede encontrar, en segundos, imágenes e información de este dragón, utilizando su buscador favorito, e inclusive, hablándole a su teléfono móvil.
 
             .row.justify-content-center         
               .col-lg-9.my-3
